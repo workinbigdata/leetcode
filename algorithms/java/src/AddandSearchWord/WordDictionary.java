@@ -1,5 +1,4 @@
 // Source : https://leetcode.com/problems/add-and-search-word-data-structure-design/
-// Inspired by : http://www.jiuzhang.com/solutions/find-peak-element/
 // Author : Mark Lin
 // Date   : 2015-11-14
 
