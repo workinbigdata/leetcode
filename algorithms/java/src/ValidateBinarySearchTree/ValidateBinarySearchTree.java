@@ -21,33 +21,27 @@ public class ValidateBinarySearchTree {
     }
 
     private boolean helper(TreeNode root, long min, long max) {
-        if (root.left == null && root.right == null) {
-            if (root.val > min && root.val < max)
+        if (root.val > min && root.val < max) {
+            if (root.left == null && root.right == null) {
                 return true;
-            else
-                return false;
-        } else if (root.left == null) {
-            if (root.val < root.right.val &&
-                    root.val > min &&
-                    root.val < max)
-                return helper(root.right, root.val, max);
-            else
-                return false;
-        } else if (root.right == null) {
-            if (root.val > root.left.val &&
-                    root.val > min &&
-                    root.val < max)
-                return helper(root.left, min, root.val);
-            else
-                return false;
+            } else if (root.left == null) {
+                if (root.val < root.right.val)
+                    return helper(root.right, root.val, max);
+                else
+                    return false;
+            } else if (root.right == null) {
+                if (root.val > root.left.val)
+                    return helper(root.left, min, root.val);
+                else
+                    return false;
+            } else {
+                if (root.val > root.left.val && root.val < root.right.val)
+                    return helper(root.left, min, root.val) && helper(root.right, root.val, max);
+                else
+                    return false;
+            }
         } else {
-            if (root.val > root.left.val &&
-                    root.val < root.right.val &&
-                    root.val > min &&
-                    root.val < max)
-                return helper(root.left, min, root.val) && helper(root.right, root.val, max);
-            else
-                return false;
+            return false;
         }
     }
 }
