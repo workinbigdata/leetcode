@@ -15,3 +15,4 @@ Leetcode Problems' Solutions
 | 112   | [Path Sum](https://leetcode.com/problems/path-sum/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/PathSum/PathSum.java) | Easy |
 | 113   | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/PathSumII/PathSumII.java) | Medium |
 | 111   | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/MinimumDepthofBinaryTree/MinimumDepthofBinaryTree.java) | Easy |
+| 104   | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/MaximumDepthofBinaryTree/MaximumDepthofBinaryTree.java) | Easy |
