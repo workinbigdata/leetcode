@@ -1,5 +1,5 @@
 # Leetcode Problems' Solutions
-I have solved 15 / 290 problems!  :-)
+I have solved 17 / 290 problems! 
 
 | #      | Title                                              | Solution |    Difficulty   |
 | ------ | -------------------------------------------------- |:--------:| --------------- |
@@ -19,3 +19,4 @@ I have solved 15 / 290 problems!  :-)
 | 235   | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/LowestCommonAncestorofaBinarySearchTree/LowestCommonAncestorofaBinarySearchTree.java) | Easy |
 | 236   | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/LowestCommonAncestorofaBinaryTree/LowestCommonAncestorofaBinaryTree.java) | Medium |
 | 230   | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/KthSmallestElementinaBST/KthSmallestElementinaBST.java) | Medium |
+| 226   | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/InvertBinaryTree/InvertBinaryTree.java) | Easy |
