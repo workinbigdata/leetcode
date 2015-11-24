@@ -1,5 +1,5 @@
 # Leetcode Problems' Solutions
-I have solved 18 / 290 problems! 
+I have solved 19 / 290 problems! 
 
 | #      | Title                                              | Solution |    Difficulty   |
 | ------ | -------------------------------------------------- |:--------:| --------------- |
