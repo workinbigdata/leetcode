@@ -1,5 +1,5 @@
 # Leetcode Problems' Solutions
-I have solved 22 / 290 problems! 
+I have solved 23 / 290 problems! 
 
 | #      | Title                                              | Solution |    Difficulty   |
 | ------ | -------------------------------------------------- |:--------:| --------------- |
@@ -24,4 +24,5 @@ I have solved 22 / 290 problems!
 | 222   | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/CountCompleteTreeNodes/CountCompleteTreeNodes.java) | Medium |
 | 108   | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/ConvertSortedArraytoBinarySearchTree/ConvertSortedArraytoBinarySearchTree.java) | Medium | 
 | 105   | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/ConstructBinaryTreefromPreorderandInorderTraversal/ConstructBinaryTreefromPreorderandInorderTraversal.java) | Medium |
-| 110   | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/BalancedBinaryTree/BalancedBinaryTree.java) | Easy |
+| 106   | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/ConstructBinaryTreefromInorderandPostorderTraversal/ConstructBinaryTreefromInorderandPostorderTraversal.java) | Medium |
+| 110   | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) |  [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/BalancedBinaryTree/BalancedBinaryTree.java) | Easy |
