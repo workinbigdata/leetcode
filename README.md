@@ -1,5 +1,5 @@
 # Leetcode Problems' Solutions
-I have solved 23 / 290 problems! 
+I have solved 24 / 290 problems! 
 
 | #      | Title                                              | Solution |    Difficulty   |
 | ------ | -------------------------------------------------- |:--------:| --------------- |
@@ -26,3 +26,4 @@ I have solved 23 / 290 problems!
 | 105   | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/ConstructBinaryTreefromPreorderandInorderTraversal/ConstructBinaryTreefromPreorderandInorderTraversal.java) | Medium |
 | 106   | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/ConstructBinaryTreefromInorderandPostorderTraversal/ConstructBinaryTreefromInorderandPostorderTraversal.java) | Medium |
 | 110   | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) |  [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/BalancedBinaryTree/BalancedBinaryTree.java) | Easy |
+| 103   | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/BinaryTreeZigzagLevelOrderTraversal/BinaryTreeZigzagLevelOrderTraversal.java) | Medium |
