@@ -1,5 +1,5 @@
 # LeetCode Problems' Solutions
-I have solved 30 / 294 problems! 
+I have solved 31 / 294 problems! 
 
 | #      | Title                                              | Solution |    Difficulty   |
 | ------ | -------------------------------------------------- |:--------:| --------------- |
@@ -8,6 +8,7 @@ I have solved 30 / 294 problems!
 | 99     | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/RecoverBinarySearchTree/RecoverBinarySearchTree.java) | Hard |
 | 100    | [Same Tree](https://leetcode.com/problems/same-tree/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/SameTree/SameTree.java) | Easy |
 | 101    | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/SymmetricTree/SymmetricTree.java) | Easy |
+| 102   | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/BinaryTreeLevelOrderTraversal/BinaryTreeLevelOrderTraversal.java) | Easy |
 | 103   | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/BinaryTreeZigzagLevelOrderTraversal/BinaryTreeZigzagLevelOrderTraversal.java) | Medium |
 | 104   | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/MaximumDepthofBinaryTree/MaximumDepthofBinaryTree.java) | Easy |
 | 105   | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/ConstructBinaryTreefromPreorderandInorderTraversal/ConstructBinaryTreefromPreorderandInorderTraversal.java) | Medium |
