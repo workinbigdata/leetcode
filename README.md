@@ -1,5 +1,5 @@
 # LeetCode Problems' Solutions
-I have solved 29 / 294 problems! 
+I have solved 30 / 294 problems! 
 
 | #      | Title                                              | Solution |    Difficulty   |
 | ------ | -------------------------------------------------- |:--------:| --------------- |
@@ -18,9 +18,10 @@ I have solved 29 / 294 problems!
 | 112   | [Path Sum](https://leetcode.com/problems/path-sum/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/PathSum/PathSum.java) | Easy |
 | 113   | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/PathSumII/PathSumII.java) | Medium |
 | 114   | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/FlattenBinaryTreetoLinkedList/FlattenBinaryTreetoLinkedList.java) | Medium | 
-| 116    | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/PopulatingNextRightPointersinEachNode/PopulatingNextRightPointersinEachNode.java), [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/PopulatingNextRightPointersinEachNode/OptimizedPopulatingNextRightPointersinEachNode.java) | Medium |
+| 116   | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/PopulatingNextRightPointersinEachNode/PopulatingNextRightPointersinEachNode.java), [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/PopulatingNextRightPointersinEachNode/OptimizedPopulatingNextRightPointersinEachNode.java) | Medium |
 | 117   | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/PopulatingNextRightPointersinEachNodeII/PopulatingNextRightPointersinEachNodeII.java) | Hard |
-| 129    | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/SumRoottoLeafNumbers/SumRoottoLeafNumbers.java) | Medium |
+| 124   | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/BinaryTreeMaximumPathSum/BinaryTreeMaximumPathSum.java) | Hard |
+| 129   | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/SumRoottoLeafNumbers/SumRoottoLeafNumbers.java) | Medium |
 | 144   | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/BinaryTreePreorderTraversal/BinaryTreePreorderTraversal.java) | Medium |
 | 145   | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/BinaryTreePostorderTraversal/BinaryTreePostorderTraversal.java) | Hard |
 | 199   | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/BinaryTreeRightSideView/BinaryTreeRightSideView.java) | Medium |
