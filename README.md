@@ -1,5 +1,5 @@
 # LeetCode Problems' Solutions
-I have solved 28 / 294 problems! 
+I have solved 29 / 294 problems! 
 
 | #      | Title                                              | Solution |    Difficulty   |
 | ------ | -------------------------------------------------- |:--------:| --------------- |
@@ -30,7 +30,8 @@ I have solved 28 / 294 problems!
 | 230   | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/KthSmallestElementinaBST/KthSmallestElementinaBST.java) | Medium |
 | 235   | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/LowestCommonAncestorofaBinarySearchTree/LowestCommonAncestorofaBinarySearchTree.java) | Easy |
 | 236   | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/LowestCommonAncestorofaBinaryTree/LowestCommonAncestorofaBinaryTree.java) | Medium |
-| 297    | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/SerializeandDeserializeBinaryTree/SerializeandDeserializeBinaryTree.java) | Medium |
+| 257   | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/BinaryTreePaths/BinaryTreePaths.java) | Easy |
+| 297   | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/SerializeandDeserializeBinaryTree/SerializeandDeserializeBinaryTree.java) | Medium |
 
 
 
