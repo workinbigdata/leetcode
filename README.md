@@ -1,5 +1,5 @@
 # LeetCode Problems' Solutions
-I have solved 32 / 294 problems! 
+I have solved 33 / 294 problems! 
 
 | #      | Title                                              | Solution |    Difficulty   |
 | ------ | -------------------------------------------------- |:--------:| --------------- |
@@ -26,6 +26,7 @@ I have solved 32 / 294 problems!
 | 129   | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/SumRoottoLeafNumbers/SumRoottoLeafNumbers.java) | Medium |
 | 144   | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/BinaryTreePreorderTraversal/BinaryTreePreorderTraversal.java) | Medium |
 | 145   | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/BinaryTreePostorderTraversal/BinaryTreePostorderTraversal.java) | Hard |
+| 173   | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/BinarySearchTreeIterator/BinarySearchTreeIterator.java) | Medium |
 | 199   | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/BinaryTreeRightSideView/BinaryTreeRightSideView.java) | Medium |
 | 211    | [Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/AddandSearchWord/WordDictionary.java) | Medium    |
 | 222   | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/CountCompleteTreeNodes/CountCompleteTreeNodes.java) | Medium |
