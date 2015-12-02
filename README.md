@@ -1,5 +1,10 @@
 # LeetCode Problems' Solutions
-I have solved 34 / 294 problems! 
+I have solved 35 / 294 problems! 
+
+# Array
+| #      | Title                                              | Solution |    Difficulty   |
+| ------ | -------------------------------------------------- |:--------:| --------------- |
+| 27     | [Remove Element](https://leetcode.com/problems/remove-element/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/RemoveElement/RemoveElement.java) | Easy |
 
 # Trie
 | #      | Title                                              | Solution |    Difficulty   |
@@ -42,18 +47,3 @@ I have solved 34 / 294 problems!
 | 236   | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/LowestCommonAncestorofaBinaryTree/LowestCommonAncestorofaBinaryTree.java) | Medium |
 | 257   | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/BinaryTreePaths/BinaryTreePaths.java) | Easy |
 | 297   | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/SerializeandDeserializeBinaryTree/SerializeandDeserializeBinaryTree.java) | Medium |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
