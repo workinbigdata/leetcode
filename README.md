@@ -1,5 +1,5 @@
 # LeetCode Problems' Solutions
-I have solved 35 / 294 problems! 
+I have solved 36 / 294 problems! 
 
 # Array
 | #      | Title                                              | Solution |    Difficulty   |
@@ -15,6 +15,7 @@ I have solved 35 / 294 problems!
 | #      | Title                                              | Solution |    Difficulty   |
 | ------ | -------------------------------------------------- |:--------:| --------------- |
 | 94     | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/BinaryTreeInorderTraversal/BinaryTreeInorderTraversal.java) | Medium |
+| 95     | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/UniqueBinarySearchTreesII/UniqueBinarySearchTreesII.java) | Medium |
 | 96     | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/UniqueBinarySearchTrees/UniqueBinarySearchTrees.java) | Medium |
 | 98     | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/ValidateBinarySearchTree/ValidateBinarySearchTree.java), [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/ValidateBinarySearchTree/OptimizedValidateBinarySearchTree.java) | Medium |
 | 99     | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/RecoverBinarySearchTree/RecoverBinarySearchTree.java) | Hard |
