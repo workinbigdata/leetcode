@@ -1,10 +1,16 @@
 # LeetCode Problems' Solutions
-I have solved 36 / 294 problems! 
+I have solved 37 / 294 problems! 
+
+# Algorithms
+* [Array](https://github.com/workinbigdata/leetcode#array)
+* [Trie](https://github.com/workinbigdata/leetcode#trie)
+* [Tree](https://github.com/workinbigdata/leetcode#tree)
 
 # Array
 | #      | Title                                              | Solution |    Difficulty   |
 | ------ | -------------------------------------------------- |:--------:| --------------- |
 | 27     | [Remove Element](https://leetcode.com/problems/remove-element/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/RemoveElement/RemoveElement.java) | Easy |
+| 268    | [Missing Number](https://leetcode.com/problems/missing-number/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/MissingNumber/MissingNumber.java) | Medium |
 
 # Trie
 | #      | Title                                              | Solution |    Difficulty   |
