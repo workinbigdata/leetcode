@@ -1,5 +1,5 @@
 # LeetCode Problems' Solutions
-I have solved 37 / 294 problems! 
+I have solved 38 / 294 problems! 
 
 # Algorithms
 * [Array](https://github.com/workinbigdata/leetcode#array)
@@ -9,6 +9,7 @@ I have solved 37 / 294 problems!
 # Array
 | #      | Title                                              | Solution |    Difficulty   |
 | ------ | -------------------------------------------------- |:--------:| --------------- |
+| 1      | [Two Sum](https://leetcode.com/problems/two-sum/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/TwoSum/TwoSum.java) | Medium |
 | 27     | [Remove Element](https://leetcode.com/problems/remove-element/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/RemoveElement/RemoveElement.java) | Easy |
 | 268    | [Missing Number](https://leetcode.com/problems/missing-number/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/MissingNumber/MissingNumber.java) | Medium |
 
