@@ -1,6 +1,8 @@
-package WordSearch;// Source : https://leetcode.com/problems/3sum/
+package WordSearch;
+
+// Source : https://leetcode.com/problemset/algorithms/
 // Author : Mark Lin
-// Date   : 2015-12-6
+// Date   : 2016-3-15
 
 /**********************************************************************************
  *
