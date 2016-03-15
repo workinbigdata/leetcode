@@ -12,6 +12,7 @@ I have solved 39 / 294 problems!
 | 1      | [Two Sum](https://leetcode.com/problems/two-sum/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/TwoSum/TwoSum.java) | Medium |
 | 15     | [Three Sum](https://leetcode.com/problems/3sum/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/ThreeSum/ThreeSum.java) | Medium |
 | 27     | [Remove Element](https://leetcode.com/problems/remove-element/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/RemoveElement/RemoveElement.java) | Easy |
+| 79     | [Word Search](https://leetcode.com/problems/word-search/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/WordSearch/WordSearch.java) | Medium |
 | 268    | [Missing Number](https://leetcode.com/problems/missing-number/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/MissingNumber/MissingNumber.java) | Medium |
 
 # Trie
