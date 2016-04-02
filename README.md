@@ -6,6 +6,8 @@ I have solved 40 / 320 problems!
 * [Trie](https://github.com/workinbigdata/leetcode#trie)
 * [Tree](https://github.com/workinbigdata/leetcode#tree)
 
+---
+
 # Array
 | #      | Title                                              | Solution |    Difficulty   |
 | ------ | -------------------------------------------------- |:--------:| --------------- |
