@@ -1,5 +1,5 @@
 # LeetCode Problems' Solutions
-I have solved 40 / 320 problems! 
+I have solved 41 / 344 problems! 
 
 # Algorithms
 * [Array](https://github.com/workinbigdata/leetcode#array)
