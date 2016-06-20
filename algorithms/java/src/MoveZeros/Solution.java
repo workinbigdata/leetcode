@@ -23,16 +23,17 @@ public class Solution {
         int readIndex = 0;
         int writeIndex = 0;
 
-        while(readIndex < nums.length){
-            if(nums[readIndex] == 0){
+        while(readIndex < nums.length) {
+            if(nums[readIndex] == 0) {
                 readIndex++;
                 continue;
             }
 
-            if(readIndex != writeIndex){
+            if(readIndex != writeIndex) {
                 nums[writeIndex] = nums[readIndex];
                 nums[readIndex] = 0;
             }
+
             writeIndex++;
             readIndex++;
         }
