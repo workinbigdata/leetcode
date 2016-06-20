@@ -1,4 +1,4 @@
-package moveZeros;
+package MoveZeros;
 
 // Source : https://leetcode.com/problems/move-zeroes/
 // Author : Mark Lin
