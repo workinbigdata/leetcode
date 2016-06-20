@@ -1,5 +1,5 @@
 # LeetCode Problems' Solutions
-I have solved 40 / 320 problems! 
+I have solved 41 / 344 problems! 
 
 # Algorithms
 * [Array](https://github.com/workinbigdata/leetcode#array)
@@ -16,6 +16,7 @@ I have solved 40 / 320 problems!
 | 27     | [Remove Element](https://leetcode.com/problems/remove-element/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/RemoveElement/RemoveElement.java) | Easy |
 | 79     | [Word Search](https://leetcode.com/problems/word-search/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/WordSearch/WordSearch.java) | Medium |
 | 268    | [Missing Number](https://leetcode.com/problems/missing-number/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/MissingNumber/MissingNumber.java) | Medium |
+| 283    | [Move Zeros](https://leetcode.com/problems/move-zeroes/)  | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/MoveZeros/Solution.java) | Easy |
 
 # Trie
 | #      | Title                                              | Solution |    Difficulty   |
