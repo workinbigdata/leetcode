@@ -1,5 +1,5 @@
 # LeetCode Problems' Solutions
-Until 2016-06-28, I have solved 42 / 352 problems! 
+Until 2016-07-01, I have solved 43 / 354 problems! 
 
 # Algorithms
 * [Array](https://github.com/workinbigdata/leetcode#array)
@@ -17,6 +17,7 @@ Until 2016-06-28, I have solved 42 / 352 problems!
 | 79     | [Word Search](https://leetcode.com/problems/word-search/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/WordSearch/WordSearch.java) | Medium |
 | 189    | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/RotateArray/RotateArray.java) | Easy | 
 | 268    | [Missing Number](https://leetcode.com/problems/missing-number/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/MissingNumber/MissingNumber.java) | Medium |
+| 287    | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/FindTheDuplicateNumber/FindTheDuplicateNumber.java) | Hard |
 | 283    | [Move Zeros](https://leetcode.com/problems/move-zeroes/)  | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/MoveZeros/Solution.java) | Easy |
 
 # Trie
