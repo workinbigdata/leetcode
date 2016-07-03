@@ -1,5 +1,4 @@
 # LeetCode Problems' Solutions
-Until 2016-07-01, I have solved 43 / 354 problems! 
 
 # Algorithms
 * [Array](https://github.com/workinbigdata/leetcode#array)
@@ -16,9 +15,10 @@ Until 2016-07-01, I have solved 43 / 354 problems!
 | 27     | [Remove Element](https://leetcode.com/problems/remove-element/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/RemoveElement/RemoveElement.java) | Easy |
 | 79     | [Word Search](https://leetcode.com/problems/word-search/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/WordSearch/WordSearch.java) | Medium |
 | 189    | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/RotateArray/RotateArray.java) | Easy | 
+| 238    | [Product of Array Except Selt](https://leetcode.com/problems/product-of-array-except-self/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/ProductofArrayExceptSelf/ProductofArrayExceptSelf.java) | Medium |
 | 268    | [Missing Number](https://leetcode.com/problems/missing-number/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/MissingNumber/MissingNumber.java) | Medium |
-| 287    | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/FindTheDuplicateNumber/FindTheDuplicateNumber.java) | Hard |
 | 283    | [Move Zeros](https://leetcode.com/problems/move-zeroes/)  | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/MoveZeros/Solution.java) | Easy |
+| 287    | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Java](https://github.com/workinbigdata/leetcode/blob/master/algorithms/java/src/FindTheDuplicateNumber/FindTheDuplicateNumber.java) | Hard |
 
 # Trie
 | #      | Title                                              | Solution |    Difficulty   |
